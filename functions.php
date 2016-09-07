@@ -98,6 +98,7 @@ function abcosolar_widgets_init() {
 }
 add_action( 'widgets_init', 'abcosolar_widgets_init' );
 
+
 /**
  * Enqueue scripts and styles.
  */
