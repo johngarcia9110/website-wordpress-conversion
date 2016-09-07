@@ -95,6 +95,15 @@ function abcosolar_widgets_init() {
 		'before_title'  => '<h2 class="widget-title">',
 		'after_title'   => '</h2>',
 	) );
+	register_sidebar(array(
+		'name'			=> 'Investor Sidebar',
+		'id'			=> 'sidebar-2',
+		'description'   => esc_html__( 'Add widgets here.', 'abcosolar' ),
+		'before_widget' => '',
+		'after_widget'	=> '',
+		'before_title'	=> '<h4>',
+		'after_title'	=> '</h4>',
+));
 }
 add_action( 'widgets_init', 'abcosolar_widgets_init' );
 

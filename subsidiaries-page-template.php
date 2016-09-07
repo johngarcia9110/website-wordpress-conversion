@@ -6,7 +6,6 @@
 get_header(); ?>
     <div class="page-hero  overlay" style="background: url(../c.eqcdn.com/_6631f2d73f69cebadfd3a44607875b9a/abcosolar/db/223/382/image.jpg);background-position: 50% 50%;background-repeat: no-repeat;background-size: cover;"></div>
    
-    
 
     <div class="container">
         <div class="row js-same-height-row">
