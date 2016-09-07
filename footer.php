@@ -13,13 +13,18 @@
 
 	</div><!-- #content -->
 
-	<footer id="colophon" class="site-footer" role="contentinfo">
-		<div class="site-info">
-			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'abcosolar' ) ); ?>"><?php printf( esc_html__( 'Proudly powered by %s', 'abcosolar' ), 'WordPress' ); ?></a>
-			<span class="sep"> | </span>
-			<?php printf( esc_html__( 'Theme: %1$s by %2$s.', 'abcosolar' ), 'abcosolar', '<a href="http://underscores.me/" rel="designer">Underscores.me</a>' ); ?>
-		</div><!-- .site-info -->
-	</footer><!-- #colophon -->
+	<footer>
+	<div class="container">
+		<div class="copyright">
+			&copy; 2016 <a href="index.html">ABCO Energy, Inc.</a> All Rights Reserved.
+		</div>
+		<div class="footer-links">
+			    <a href="privacy-policy.html">Privacy Policy</a>
+    <a href="disclaimer.html">Disclaimer</a>
+    <a href="sitemap.html">Sitemap</a>
+		</div>
+	</div>
+</footer>
 </div><!-- #page -->
 
 <?php wp_footer(); ?>

@@ -46,52 +46,53 @@ get_header(); ?>
             </div>
 
 	</div><!-- .row -->
-</div><!-- .container --><div class="home-ir-module">
-	<div class="container">
-		<div class="module-info-home quote-box" data-symbol="ABCE">
-			<h2 class="title module-title center"><span class="text">Investor Relations</span></h2>
-			<span class="meta time"></span>
-		    <h3 class="company">ABCO Energy, Inc.</h3>
-			<div class="row">
-			    <div class="col-lg-6">
-			        <div class="row">
-    					<div class="col-md-4 symbol">
-    						<span class="value-title"><span>Symbol</span></span>
-    						<span class="value">OTCQB: ABCE</span>
-    					</div>
-    					<div class="col-md-4 price">
-    						<span class="value-title"><span>Price</span></span>
-    						<span class="value"><span class="loader"></span></span>
-    					</div>
-    					<div class="col-md-4 change">
-    						<span class="value-title"><span>Change</span></span>
-    						<span class="value">
-    						    <span class="eqicon-change-02"></span>
-    						    <span class="number"><span class="loader"></span></span>
-    						    <span class="percent"></span>
-    					    </span>
-    					</div>
-    				</div>
-				</div>
-				<div class="col-lg-6">
-				    <div class="row">
-    					<div class="col-md-4 volume">
-    						<span class="value-title"><span>Volume</span></span>
-    						<span class="value"><span class="loader"></span></span>
-    					</div>
-    					<div class="col-md-4 day-low-high day-range">
-    						<span class="value-title"><span>Day Low/High</span></span>
-    						<span class="value"><span class="loader"></span></span>
-    					</div>
-    					<div class="col-md-4 week-low-high week-range">
-    						<span class="value-title"><span>52 Week Low/High</span></span>
-    						<span class="value"><span class="loader"></span></span>
-    					</div>
-    				</div>
-    			</div>
-			</div>
-		</div>
-	</div>
+</div><!-- .container -->
+<!--<div class="home-ir-module">-->
+<!--	<div class="container">-->
+<!--		<div class="module-info-home quote-box" data-symbol="ABCE">-->
+<!--			<h2 class="title module-title center"><span class="text">Investor Relations</span></h2>-->
+<!--			<span class="meta time"></span>-->
+<!--		    <h3 class="company">ABCO Energy, Inc.</h3>-->
+<!--			<div class="row">-->
+<!--			    <div class="col-lg-6">-->
+<!--			        <div class="row">-->
+<!--    					<div class="col-md-4 symbol">-->
+<!--    						<span class="value-title"><span>Symbol</span></span>-->
+<!--    						<span class="value">OTCQB: ABCE</span>-->
+<!--    					</div>-->
+<!--    					<div class="col-md-4 price">-->
+<!--    						<span class="value-title"><span>Price</span></span>-->
+<!--    						<span class="value"><span class="loader"></span></span>-->
+<!--    					</div>-->
+<!--    					<div class="col-md-4 change">-->
+<!--    						<span class="value-title"><span>Change</span></span>-->
+<!--    						<span class="value">-->
+<!--    						    <span class="eqicon-change-02"></span>-->
+<!--    						    <span class="number"><span class="loader"></span></span>-->
+<!--    						    <span class="percent"></span>-->
+<!--    					    </span>-->
+<!--    					</div>-->
+<!--    				</div>-->
+<!--				</div>-->
+<!--				<div class="col-lg-6">-->
+<!--				    <div class="row">-->
+<!--    					<div class="col-md-4 volume">-->
+<!--    						<span class="value-title"><span>Volume</span></span>-->
+<!--    						<span class="value"><span class="loader"></span></span>-->
+<!--    					</div>-->
+<!--    					<div class="col-md-4 day-low-high day-range">-->
+<!--    						<span class="value-title"><span>Day Low/High</span></span>-->
+<!--    						<span class="value"><span class="loader"></span></span>-->
+<!--    					</div>-->
+<!--    					<div class="col-md-4 week-low-high week-range">-->
+<!--    						<span class="value-title"><span>52 Week Low/High</span></span>-->
+<!--    						<span class="value"><span class="loader"></span></span>-->
+<!--    					</div>-->
+<!--    				</div>-->
+<!--    			</div>-->
+<!--			</div>-->
+<!--		</div>-->
+<!--	</div>-->
 	<div class="home-links-module">
 	    <div class="container">
             <div class="row home-links-module">
@@ -119,5 +120,4 @@ get_header(); ?>
 
 
 <?php
-get_sidebar();
 get_footer();
