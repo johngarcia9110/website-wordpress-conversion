@@ -7,55 +7,7 @@ get_header(); ?>
 
 <div id="primary" class="content-area">
   <main id="main" class="site-main" role="main">
-    <div class="container">
-        <ul class="height">
-                        <li class="title"><a href="investors.html">Investor Relations</a></li>
-                    <li><a href="investors/_.html">Overview</a></li>
-                </ul>
-                    <ul class="height">
-                <li class="title"><a href="investors/news-events.html">News / Events</a></li>
-                                    <li><a href="investors/news-events/press-releases.html">Press Releases</a></li>
-                                    <li><a href="investors/news-events/ir-calendar.html">IR Calendar</a></li>
-                                    <li><a href="investors/news-events/email-alerts.html">Email Alerts</a></li>
-                            </ul>
-                    <ul class="height">
-                <li class="title"><a href="investors/company-information.html">Company Info</a></li>
-                                    <li><a href="investors/company-information/profile.html">Profile</a></li>
-                                    <li><a href="investors/company-information/presentations.html">Presentations</a></li>
-                                    <li><a href="investors/company-information/management-team.html">Management Team</a></li>
-                                    <li><a href="investors/company-information/contacts.html">Contacts</a></li>
-                                    <li><a href="investors/company-information/faq.html">FAQ</a></li>
-                            </ul>
-                    <ul class="height">
-                <li class="title"><a href="investors/financial-information.html">Financial Info</a></li>
-                                    <li><a href="investors/financial-information/financials.html">Financials</a></li>
-                                    <li><a href="investors/financial-information/financial-results.html">Financial Results</a></li>
-                            </ul>
-                    <ul class="height">
-                <li class="title"><a href="investors/stock-data.html">Stock Data</a></li>
-                                    <li><a href="investors/stock-data/quote.html">Quote</a></li>
-                                    <li><a href="investors/stock-data/charts.html">Charts</a></li>
-                                    <li><a href="investors/stock-data/historical-data.html">Historical Data</a></li>
-                            </ul>
-                    <ul class="height">
-                <li class="title"><a href="investors/sec-filings.html">SEC Filings</a></li>
-                                    <li><a href="investors/sec-filings/all-sec-filings.html">All SEC Filings</a></li>
-                                    <li><a href="investors/sec-filings/annual-reports.html">Annual Reports</a></li>
-                                    <li><a href="investors/sec-filings/quarterly-reports.html">Quarterly Reports</a></li>
-                                    <li><a href="investors/sec-filings/section-16-filings.html">Section 16 Filings</a></li>
-                            </ul>
-                    <ul class="height">
-                <li class="title"><a href="investors/corporate-governance.html">Governance</a></li>
-                                    <li><a href="investors/corporate-governance/board-of-directors.html">Board of Directors</a></li>
-                                    <li><a href="investors/corporate-governance/governance-docs.html">Governance Documents</a></li>
-                            </ul>
-            </div>
-</div>    </li>            <li class=" " data-submenu-id="submenu-contact">
-    <a  href="contact.html">Contact</a>
-    </li>    </ul>
-		</nav>
-    </div>
-</header><div class="home-hero  overlay" style="background: url(../c.eqcdn.com/_6631f2d73f69cebadfd3a44607875b9a/abcosolar/db/223/363/image.jpg);background-position: 50% 50%;background-repeat: no-repeat;background-size: cover;">
+<div class="home-hero  overlay" style="background: url(https://abco-wordpress-johngarcia9110.c9users.io/wp-content/uploads/2016/09/image.jpg);background-position: 50% 50%;background-repeat: no-repeat;background-size: cover;">
 	<div class="container">
         <div class="vertical-align">
     		<div class="wrapper text dark center">

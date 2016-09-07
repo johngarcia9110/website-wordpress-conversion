@@ -268,7 +268,7 @@ textarea {
 	color: #404040;
 	font-family: sans-serif;
 	font-size: 16px;
-	font-size: 1rem;
+	/*font-size: 1rem;*/
 	line-height: 1.5;
 }
 
@@ -545,7 +545,7 @@ a:active {
 	padding-left: 0;
 }
 
-.main-navigation li {
+.main-navigation ul li {
 	float: left;
 	position: relative;
 }
@@ -891,4 +891,20 @@ object {
 
 .gallery-caption {
 	display: block;
+}
+
+/* Custom Styles */
+
+.main-nav ul li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background: none;
+    position: relative;
+    z-index: 1;
+    float: left;
+}
+
+.main-nav ul li ul li{
+	width: 100%;
 }
