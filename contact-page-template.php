@@ -13,17 +13,17 @@ get_header(); ?>
                     <div class="row">
                         <div class="contact-info col-md-6">
                             <?php
-                                			    while ( have_posts() ) : the_post();
+                			    while ( have_posts() ) : the_post();
 
-                                				    get_template_part( 'template-parts/content', 'page' );
+                				    get_template_part( 'template-parts/content', 'page' );
 
-                                				    // If comments are open or we have at least one comment, load up the comment template.
-                                				    if ( comments_open() || get_comments_number() ) :
-                                					    comments_template();
-                                				    endif;
+                				    // If comments are open or we have at least one comment, load up the comment template.
+                				    if ( comments_open() || get_comments_number() ) :
+                					    comments_template();
+                				    endif;
 
-                                			    endwhile; // End of the loop.
-                                			?>
+                			    endwhile; // End of the loop.
+                			?>
                         </div>
                         <div class="contact-form col-md-5">
                             <form method="post" action="http://www.abcoenergy.com/form-submit" id="contact-form" class="contact-form validate-form">
@@ -77,11 +77,7 @@ get_header(); ?>
         </div>
     </div>
     <!-- / / container-- >
-    <div class="subscribe prefooter">
-    <h2>Sign up for email alerts</h2>
-    <p>Be the first to receive breaking news</p>
-    <a href="investors/news-events/email-alerts.html" class="btn">Sign up today</a>
-</div>
+
 
 
 

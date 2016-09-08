@@ -925,3 +925,8 @@ object {
 	max-width: 1170px;
 	overflow: hidden;
 }*/
+.spr-sec-desc-head, .spr-sec-form-head, .spr-sec-date-head {
+	background-color: #5cc754!important;
+	font-weight: bold!important;
+	color: white!important;
+}

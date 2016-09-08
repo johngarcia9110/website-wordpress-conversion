@@ -34,11 +34,7 @@ get_header(); ?>
         </div>
     </div>
     <!-- //container-->
-    <div class="subscribe prefooter">
-        <h2>Sign up for email alerts</h2>
-        <p>Be the first to receive breaking news</p>
-        <a href="investors/news-events/email-alerts.html" class="btn">Sign up today</a>
-    </div>
+
 
     <?php
 get_footer();
