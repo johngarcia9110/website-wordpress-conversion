@@ -895,7 +895,7 @@ object {
 
 /* Custom Styles */
 
-.main-nav ul li {
+/*.main-nav ul li {
     margin: 0;
     padding: 0;
     list-style: none;
@@ -903,8 +903,25 @@ object {
     position: relative;
     z-index: 1;
     float: left;
-}
+}*/
 
-.main-nav ul li ul li{
+/*.main-nav ul li ul li{
 	width: 100%;
+}*/
+.entry-footer{
+	background: none;
 }
+.home-section{
+	margin-bottom: 40px;
+}
+/*#menu-item-98 .sub-menu{
+	margin-right: auto;
+	margin-left: auto;
+	padding-left: 15px;
+	padding-right: 15px;
+	background: #5cc754;
+	padding-bottom: 20px;
+	padding-top: 25px;
+	max-width: 1170px;
+	overflow: hidden;
+}*/

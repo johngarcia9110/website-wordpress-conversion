@@ -7,13 +7,13 @@ get_header(); ?>
 
 <div id="primary" class="content-area">
   <main id="main" class="site-main" role="main">
-<div class="home-hero  overlay" style="background: url(https://abco-wordpress-johngarcia9110.c9users.io/wp-content/uploads/2016/09/image.jpg);background-position: 50% 50%;background-repeat: no-repeat;background-size: cover;">
+<div class="home-hero  overlay" style="background: url(http://abcoenergy.com/wp-content/uploads/2016/09/image.jpg);background-position: 50% 50%;background-repeat: no-repeat;background-size: cover;">
 	<div class="container">
         <div class="vertical-align">
     		<div class="wrapper text dark center">
                 <h2>A Leading Alternative Energy Services Provider</h2>
                             <p>ABCO Energy, Inc. is a commercial and residential installer of Photovoltaic (PV) solar systems, LED lighting solutions, electrical services, and provider of financing for all of these energy saving products.</p>
-                            			<a href="about/overview.html" class="btn">About ABCO Energy</a>
+                            			<a href="http://abcoenergy.com/about/" class="btn">About ABCO Energy</a>
     	        		</div>
     	</div>
     </div>
@@ -25,14 +25,14 @@ get_header(); ?>
     	<div class="text">
         <h2>A One-Stop Solar Partner</h2>
 		<p>Our subsidiaries offer full-service, licensed electrical contractors helping with every stage of solar panel installation; from determining the size, financing options, tax and utility incentives.</p>	</div>
-    <a href="subsidiaries/overview.html" class="btn">View Subsidiaries</a></div>
+    <a href="http://abcoenergy.com/subsidiaries/" class="btn">View Subsidiaries</a></div>
             </div>
                     <div class="col-md-4">
                 <div class="single-home-module js-same-height">
     	<div class="text">
         <h2>An Expanding Market</h2>
 		<p>The solar market is expected to reach $125 billion by 2016 and ABCO Energy plans on being a very large part of this growth.</p>	</div>
-    <a href="about/market-strategy.html" class="btn">View Market Strategy</a></div>
+    <a href="http://abcoenergy.com/about/market-strategy/" class="btn">View Market Strategy</a></div>
             </div>
                     <div class="col-md-4">
                 <div class="single-home-module js-same-height">
@@ -42,7 +42,7 @@ get_header(); ?>
     <span class="date">Apr 19, 2016</span>
     <a href="news/press-releases/detail/11/abco-energy-inc-announces-launch-of-large-phoenix.html">ABCO Energy, Inc. Announces Launch of Large Phoenix, Arizona Commercial Project</a>
 </div>	</div>
-    <a href="news.html" class="btn">View All News</a></div>
+    <a href="http://abcoenergy.com/news/" class="btn">View All News</a></div>
             </div>
 
 	</div><!-- .row -->

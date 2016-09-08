@@ -5,7 +5,7 @@
  */
 get_header(); ?>
 
-    <div class="page-hero  overlay" style="background: url(../c.eqcdn.com/_a1c5a9358f82ef3cec846a8ca3d8ad2d/abcosolar/db/223/380/image.jpg);background-position: 50% 50%;background-repeat: no-repeat;background-size: cover;"></div>
+    <div class="page-hero  overlay" style="background: url(http://abcoenergy.com/wp-content/uploads/2016/09/image-2.jpg);background-position: 50% 50%;background-repeat: no-repeat;background-size: cover;"></div>
     <div class="container">
         <div class="row js-same-height-row">
             <?php if ( !function_exists('dynamic_sidebar')
@@ -15,17 +15,17 @@ get_header(); ?>
                 <div class="main-content">
                     <?php while ( have_posts() ) : the_post();
                         if (is_page (array('investors')))
-                        
+
         				    get_template_part( 'template-parts/content', 'ir-overview' );
-                        
+
                         else
-                            get_template_part( 'template-parts/content', 'content');
-                            
+                            get_template_part( 'template-parts/content', 'page');
+
         				// If comments are open or we have at least one comment, load up the comment template.
         				if ( comments_open() || get_comments_number() ) :
         					comments_template();
         				endif;
-        
+
         			endwhile; // End of the loop.
         			?>
                 </div>

@@ -116,6 +116,8 @@ function abcosolar_scripts() {
 
 	wp_enqueue_script( 'abcosolar-navigation', get_template_directory_uri() . '/js/navigation.js', array(), '20151215', true );
 
+	wp_enqueue_script( 'abcosolar-all', get_template_directory_uri() . '/js/all.js', array(), '20151215', true );
+
 	wp_enqueue_script( 'abcosolar-skip-link-focus-fix', get_template_directory_uri() . '/js/skip-link-focus-fix.js', array(), '20151215', true );
 
 	if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
